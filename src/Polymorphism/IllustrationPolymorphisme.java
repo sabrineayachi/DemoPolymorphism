@@ -1,5 +1,9 @@
 package Polymorphism;
 
+/**
+ *
+ * @author <a href="mailto:sabrinee.ayachi@gmail.com">Sabrine AYACHI</a>
+ */
 class IllustrationPolymorphisme {
 	
 	public static void main(String[] args) {
